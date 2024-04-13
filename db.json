@@ -1,0 +1,77 @@
+{
+    "history": [
+        [
+            {
+              "id": 1,
+              "date": "2022-04-13T12:00:00Z",
+              "productName": "Pizza",
+              "price": 10.99,
+              "quantity": 3
+            },
+            {
+              "id": 2,
+              "date": "2022-04-12T08:30:00Z",
+              "productName": "Pizza",
+              "price": 25.50,
+              "quantity": 1
+            },
+            {
+              "id": 3,
+              "date": "2022-04-11T15:45:00Z",
+              "productName": "Pizza",
+              "price": 5.99,
+              "quantity": 2
+            },
+            {
+              "id": 4,
+              "date": "2022-04-10T09:20:00Z",
+              "productName": "Sandwich",
+              "price": 18.75,
+              "quantity": 5
+            },
+            {
+              "id": 5,
+              "date": "2022-04-09T14:00:00Z",
+              "productName": "Sandwich",
+              "price": 30.00,
+              "quantity": 2
+            },
+            {
+              "id": 6,
+              "date": "2022-04-08T11:10:00Z",
+              "productName": "Sandwich",
+              "price": 12.49,
+              "quantity": 1
+            },
+            {
+              "id": 7,
+              "date": "2022-04-07T16:30:00Z",
+              "productName": "Sandwich",
+              "price": 8.99,
+              "quantity": 3
+            },
+            {
+              "id": 8,
+              "date": "2022-04-06T10:45:00Z",
+              "productName": "Ice Cream",
+              "price": 14.00,
+              "quantity": 4
+            },
+            {
+              "id": 9,
+              "date": "2022-04-05T13:20:00Z",
+              "productName": "Ice Cream",
+              "price": 7.25,
+              "quantity": 2
+            },
+            {
+              "id": 10,
+              "date": "2022-04-04T09:00:00Z",
+              "productName": "Ice Creams",
+              "price": 22.99,
+              "quantity": 1
+            }
+          ]
+          
+    ]
+}
